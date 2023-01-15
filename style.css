@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+@media only screen and (min-width: 768) {}
+
 
 .attribution {
     text-align: center;
@@ -16,7 +18,7 @@
     margin: 0 auto;
     border-radius: 10px;
     height: 34em;
-    width: 80%;
+    width: 875px;
 }
 
 img {
