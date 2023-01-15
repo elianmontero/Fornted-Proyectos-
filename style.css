@@ -150,7 +150,7 @@ img {
 
 .btn2:hover {
     color: rgba(255, 255, 255, 0.788);
-    background: hsl(184, 100%, 22%);
+    background: hsl(184, 100%, 28%);
     border-color: #fff;
     text-decoration: none;
     border-style: solid;
@@ -165,7 +165,7 @@ img {
     height: 45px;
     border-radius: 100px;
     border-color: transparent;
-    color: hsl(179, 100%, 19%);
+    color: hsl(179, 100%, 13%);
     font-family: 'Lexend Deca', sans-serif;
     font-size: 16px;
     cursor: pointer;
